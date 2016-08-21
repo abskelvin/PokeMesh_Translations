@@ -182,4 +182,12 @@
     <string name="hide_current">Esconder este %s</string> <!-- %s will be replaced by the localized pokémon name -->
     <string name="hide_all">Esconder todos %s</string>
     <string name="rarity_filters">Filtros de Raridade</string> <!-- %s will be replaced by the localized pokémon name -->
-</resources>
+    <string name="rarity_disclaimer">Eu não irei culpar os desenvolvedores se ver o mapa sem um único Pokémon!</string>
+    <string name="rarity_filters_summary">Selecione o mínimo de raridade dos Pokémon que serão exibidos no mapa.</string>
+    <string name="bookmarks">Favoritos</string>
+    <string name="history">Histórico</string>
+    <string name="add_bookmark">Adicionar aos favoritos</string>
+    <string name="delete">Deletar</string>
+    <string name="ilovepokemesh">Eu amo PokéMesh</string>
+    <string name="ilovepokemesh_summary">Exibir um pequeno banner não intrusivo no mapa principal.</string>
+</resources
